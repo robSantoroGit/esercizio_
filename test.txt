@@ -4,3 +4,4 @@ Ciao3
 Modifica ramo fastForward
 Ciao4 del Master
 Ciao 5 del Master
+Ciao 5 nel conflict branch
